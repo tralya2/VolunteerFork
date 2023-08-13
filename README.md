@@ -8,3 +8,4 @@ Repo ini digunakan sbg sayembara pencarian volunteer untuk pembuatan aplikasi Di
 
 Berikut daftar volunteer yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Gilang, [linkedin](linkedin.com).
